@@ -1,3 +1,1 @@
-"Hello Git" 
-"Hello Git" 
-This is yet another edit
+Hello there my friends
